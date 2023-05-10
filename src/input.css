@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+    .bn16{
+        @apply font-serif .font-bold text-xs tracking-widest no-underline border border-solid .border-black inline-block py-10 px-2.5 relative rounded-5xl
+    }
+} */
